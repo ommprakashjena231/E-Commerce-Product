@@ -1,0 +1,146 @@
+[
+  {
+    "id": "bt-01",
+    "name": "Assam Gold Estate",
+    "category": "Black Tea",
+    "price": 8.5,
+    "tin": "#5C2A1F",
+    "note": "Steep 4 min at 95°C",
+    "description": "Malty, brisk, and full-bodied — the classic breakfast cup."
+  },
+  {
+    "id": "bt-02",
+    "name": "Ceylon Highgrown",
+    "category": "Black Tea",
+    "price": 7.0,
+    "tin": "#7A3B24",
+    "note": "Steep 3 min at 95°C",
+    "description": "Bright and citrusy with a clean, brisk finish."
+  },
+  {
+    "id": "bt-03",
+    "name": "Smoked Lapsang Souchong",
+    "category": "Black Tea",
+    "price": 9.5,
+    "tin": "#3E2A22",
+    "note": "Steep 3 min at 95°C",
+    "description": "Pine-smoked over old growth wood fires. Bold and unmistakable."
+  },
+  {
+    "id": "bt-04",
+    "name": "Earl Grey Reserve",
+    "category": "Black Tea",
+    "price": 8.0,
+    "tin": "#4A2E3A",
+    "note": "Steep 4 min at 95°C",
+    "description": "Bergamot-scented black tea with a hint of cornflower."
+  },
+  {
+    "id": "gt-01",
+    "name": "Dragonwell Long Jing",
+    "category": "Green Tea",
+    "price": 10.0,
+    "tin": "#3F5C3A",
+    "note": "Steep 2 min at 80°C",
+    "description": "Pan-fired and chestnut-sweet, from Hangzhou's West Lake."
+  },
+  {
+    "id": "gt-02",
+    "name": "Jasmine Pearl",
+    "category": "Green Tea",
+    "price": 9.0,
+    "tin": "#4E6B44",
+    "note": "Steep 3 min at 80°C",
+    "description": "Hand-rolled pearls scented with fresh jasmine blossom."
+  },
+  {
+    "id": "gt-03",
+    "name": "Sencha Asatsuyu",
+    "category": "Green Tea",
+    "price": 8.5,
+    "tin": "#34502E",
+    "note": "Steep 90 sec at 70°C",
+    "description": "Grassy and umami-rich, shaded before harvest for sweetness."
+  },
+  {
+    "id": "gt-04",
+    "name": "Genmaicha Toasted Rice",
+    "category": "Green Tea",
+    "price": 7.5,
+    "tin": "#5E6B3A",
+    "note": "Steep 2 min at 80°C",
+    "description": "Toasted rice folded into green tea for a nutty, popcorn warmth."
+  },
+  {
+    "id": "hf-01",
+    "name": "Chamomile Meadow",
+    "category": "Herbal & Fruit",
+    "price": 6.5,
+    "tin": "#B8862E",
+    "note": "Steep 5 min at 100°C",
+    "description": "Whole chamomile flowers, honeyed and calm before bed."
+  },
+  {
+    "id": "hf-02",
+    "name": "Hibiscus Rose Tisane",
+    "category": "Herbal & Fruit",
+    "price": 7.0,
+    "tin": "#8E2A3B",
+    "note": "Steep 5 min at 100°C",
+    "description": "Tart hibiscus and rosehip with a whisper of rose petal."
+  },
+  {
+    "id": "hf-03",
+    "name": "Peppermint Leaf",
+    "category": "Herbal & Fruit",
+    "price": 6.0,
+    "tin": "#2E6B57",
+    "note": "Steep 5 min at 100°C",
+    "description": "Whole-leaf peppermint, cool and sharp, single origin."
+  },
+  {
+    "id": "hf-04",
+    "name": "Rooibos Vanilla Bean",
+    "category": "Herbal & Fruit",
+    "price": 7.5,
+    "tin": "#9A5A2A",
+    "note": "Steep 6 min at 100°C",
+    "description": "Red bush tea with real vanilla bean, naturally caffeine-free."
+  },
+  {
+    "id": "tw-01",
+    "name": "Cast Iron Tetsubin Pot",
+    "category": "Teaware",
+    "price": 42.0,
+    "tin": "#2B2B2E",
+    "note": "0.6L · hand wash only",
+    "description": "Enamel-lined cast iron pot that keeps tea hot for hours."
+  },
+  {
+    "id": "tw-02",
+    "name": "Porcelain Gaiwan",
+    "category": "Teaware",
+    "price": 24.0,
+    "tin": "#C9C2B4",
+    "note": "120ml · lid & saucer",
+    "description": "Traditional lidded bowl for gongfu-style steeping."
+  },
+  {
+    "id": "tw-03",
+    "name": "Bamboo Tea Scoop",
+    "category": "Teaware",
+    "price": 9.0,
+    "tin": "#A9895A",
+    "note": "Holds ~1 tbsp",
+    "description": "Hand-carved bamboo scoop for measuring loose leaf."
+  },
+  {
+    "id": "tw-04",
+    "name": "Glass Infuser Mug",
+    "category": "Teaware",
+    "price": 18.0,
+    "tin": "#6E8A96",
+    "note": "350ml · dishwasher safe",
+    "description": "Borosilicate glass with a removable infuser basket."
+  }
+]

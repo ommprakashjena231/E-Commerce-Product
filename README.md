@@ -30,19 +30,9 @@ ecommerce-product-catalog/
 └── README.md           # Project documentation
 ```
 
----
 
-## 🖥️ Demo
 
-**Live Demo:** *Add your deployed project link here*
 
-Example:
-
-```
-https://your-project.netlify.app
-```
-
----
 
 ## 🛠️ Technologies Used
 
